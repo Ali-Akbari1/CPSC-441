@@ -1,0 +1,40 @@
+2025-01-31 12:43:06,461 - Server started and listening on localhost:12345
+2025-02-07 16:24:59,072 - Server started and listening on localhost:12345
+2025-02-07 16:25:45,578 - Connection from ('127.0.0.1', 63385)
+2025-02-07 16:25:49,262 - Received request: complex|ivicc
+2025-02-07 16:25:49,262 - Sent response: Can form a palindrome: True
+Complexity score: 3 (number of swaps)
+2025-02-07 16:26:07,007 - Received request: simple|ivicc
+2025-02-07 16:26:07,007 - Sent response: Is palindrome: False
+2025-02-07 16:26:13,787 - Received request: complex|racecar
+2025-02-07 16:26:13,788 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+2025-02-07 16:26:18,812 - Received request: complex|madam
+2025-02-07 16:26:18,812 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+2025-02-07 16:26:32,578 - Received request: complex|able was i saw elba
+2025-02-07 16:26:32,579 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+2025-02-07 16:26:44,369 - Received request: simple|able was I saw Elba
+2025-02-07 16:26:44,369 - Sent response: Is palindrome: True
+2025-02-07 16:26:49,070 - Received request: complex|hello
+2025-02-07 16:26:49,071 - Sent response: Can form a palindrome: False
+Complexity score: -1 (number of swaps)
+2025-02-07 16:27:05,445 - Received request: complex|world
+2025-02-07 16:27:05,446 - Sent response: Can form a palindrome: False
+Complexity score: -1 (number of swaps)
+2025-02-07 16:27:12,268 - Received request: complex|python
+2025-02-07 16:27:12,268 - Sent response: Can form a palindrome: False
+Complexity score: -1 (number of swaps)
+2025-02-07 16:27:17,391 - Received request: complex|puthnpon
+2025-02-07 16:27:17,391 - Sent response: Can form a palindrome: False
+Complexity score: -1 (number of swaps)
+2025-02-07 16:27:25,918 - Received request: complex|aabb
+2025-02-07 16:27:25,919 - Sent response: Can form a palindrome: True
+Complexity score: 2 (number of swaps)
+2025-02-07 16:27:46,096 - Received request: complex|aabbcc
+2025-02-07 16:27:46,097 - Sent response: Can form a palindrome: True
+Complexity score: 6 (number of swaps)
+2025-02-07 16:27:58,335 - Received request: complex|aaabbb
+2025-02-07 16:27:58,335 - Sent response: Can form a palindrome: False
+Complexity score: -1 (number of swaps)

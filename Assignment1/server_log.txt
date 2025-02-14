@@ -1,0 +1,21 @@
+2025-02-14 13:21:12,713 - Server started and listening on localhost:12345
+2025-02-14 13:21:24,420 - Connection from ('127.0.0.1', 62876)
+2025-02-14 13:21:28,015 - Received request: complex|ivicc
+2025-02-14 13:21:28,015 - Sent response: Can form a palindrome: True
+Complexity score: 2 (number of swaps)
+2025-02-14 13:21:39,994 - Received request: complex|A man, A plan, A canal, Panama!
+2025-02-14 13:21:39,994 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+2025-02-14 13:21:47,036 - Received request: complex|aab
+2025-02-14 13:21:47,036 - Sent response: Can form a palindrome: True
+Complexity score: 1 (number of swaps)
+2025-02-14 13:21:50,928 - Received request: complex|aabb
+2025-02-14 13:21:50,928 - Sent response: Can form a palindrome: True
+Complexity score: 1 (number of swaps)
+2025-02-14 13:21:54,365 - Received request: complex|505
+2025-02-14 13:21:54,366 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+2025-02-14 13:21:58,002 - Received request: complex|aba
+2025-02-14 13:21:58,002 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+2025-02-14 13:22:01,184 - Closed connection with ('127.0.0.1', 62876)
